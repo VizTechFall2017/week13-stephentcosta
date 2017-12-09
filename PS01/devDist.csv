@@ -1,0 +1,61 @@
+area,type,total
+Allston/Brighton,Commercial,0.4
+Allston/Brighton,Residential,0.2
+Allston/Brighton,Mixed,0.2
+Allston/Brighton,Other,0.2
+Back Bay/Beacon Hill,Commercial,0.3
+Back Bay/Beacon Hill,Residential,0.1
+Back Bay/Beacon Hill,Mixed,0.4
+Back Bay/Beacon Hill,Other,0.2
+Central,Commercial,0.3
+Central,Residential,0.3
+Central,Mixed,0.2
+Central,Other,0.2
+Charlestown,Commercial,0.2
+Charlestown,Residential,0.2
+Charlestown,Mixed,0.4
+Charlestown,Other,0.2
+Dorchester,Commercial,0.1
+Dorchester,Residential,0.2
+Dorchester,Mixed,0.2
+Dorchester,Other,0.2
+East Boston,Commercial,0.4
+East Boston,Residential,0.2
+East Boston,Mixed,0.2
+East Boston,Other,0.2
+Fenway/Kenmore,Commercial,0.3
+Fenway/Kenmore,Residential,0.1
+Fenway/Kenmore,Mixed,0.4
+Fenway/Kenmore,Other,0.2
+Hyde Park,Commercial,0.3
+Hyde Park,Residential,0.3
+Hyde Park,Mixed,0.2
+Hyde Park,Other,0.2
+Jamaica Plain,Commercial,0.2
+Jamaica Plain,Residential,0.2
+Jamaica Plain,Mixed,0.4
+Jamaica Plain,Other,0.2
+Mattapan,Commercial,0.1
+Mattapan,Residential,0.2
+Mattapan,Mixed,0.2
+Mattapan,Other,0.2
+Roslindale,Commercial,0.4
+Roslindale,Residential,0.2
+Roslindale,Mixed,0.2
+Roslindale,Other,0.2
+Roxbury,Commercial,0.3
+Roxbury,Residential,0.1
+Roxbury,Mixed,0.4
+Roxbury,Other,0.2
+South Boston,Commercial,0.3
+South Boston,Residential,0.3
+South Boston,Mixed,0.2
+South Boston,Other,0.2
+South End,Commercial,0.1
+South End,Residential,0.5
+South End,Mixed,0.1
+South End,Other,0.3
+West Roxbury,Commercial,0.2
+West Roxbury,Residential,0.2
+West Roxbury,Mixed,0.4
+West Roxbury,Other,0.2

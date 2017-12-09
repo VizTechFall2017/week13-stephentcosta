@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Affordable Housing Distribution</title>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:700" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script src="./queue.min.js"></script>
+    <script src="./d3.v4.2.6.min.js"></script>
+
+</head>
+<body id="background">
+  <input class="button" type="button" value="fullscreen" onclick="toggleFullScreen()">
+
+    <div class="container">
+    <span class="header">Affordable Housing vs. Developments   <input type="button" class="button2"
+      onClick="window.print()"
+      value="Print"/></span><hr>
+
+              <div class="svgBox">
+                  <svg width="700px" height="650px" id="svg1"></svg>
+              </div>
+
+              <div style="border-left:4px solid #000;height:650px;padding-right:15px;margin-left:8px;"></div>
+
+              <div class="svgBox2">
+                  <div class-"fit" id="Neighborhood"><br>Neighborhood</div><BR>
+                  <div class="percent" id="Percent">XX</div><br>
+                  <p class="percenttext">of CoB Affordable Housing Units</p>
+
+                  <svg width="260px" height="260px" id="svg2"></svg>
+                  <table class="righttable">
+                      <tbody>
+                      <tr>
+                          <td>
+                            <span style="color:#3894c1">&#9724; Commercial</span><br>
+                            <span style="color:#fd9457">&#9724; Residential</span>
+                          </td>
+                          <td>
+                            <span style="color:#E5D956">&#9724; Mixed</span><br>
+                            <span style="color:#77b894">&#9724; Other</span>
+                          </td>
+                      </tr>
+                      </tbody>
+                  </table>
+
+                  <p class="desc">This infographic is a tool to examine the balance of developments in the City of Boston. This illustrates the distribution of accessiblility to the city based on economic standing, as well as where these entry points are located. </p>
+
+              </div>
+    </div>
+
+</body>
+
+<script src="./index.js"></script>
+
+</html>
